@@ -1,0 +1,152 @@
+[
+    {
+        "nome": "Dores musculares",
+        "nome_planta": "Arnica",
+        "descrição": "A arnica (Arnica montana) é uma planta comumente usada para aliviar dores musculares e contusões devido às suas propriedades anti-inflamatórias.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/40006537/"
+    },
+    {
+        "nome": "Dor de barriga",
+        "nome_planta": "Hortelã",
+        "descrição": "A hortelã (Mentha) é conhecida por ajudar a aliviar dores de estômago e problemas digestivos, graças às suas propriedades que relaxam os músculos do trato gastrointestinal.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/29372567/"
+    },
+    {
+        "nome": "Náusea",
+        "nome_planta": "Gengibre",
+        "descrição": "O gengibre (Zingiber officinale) é amplamente reconhecido por sua eficácia em reduzir náuseas e vômitos, sendo útil em diversas situações como enjoos de viagem e gravidez.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/30299420/"
+    },
+    {
+        "nome": "Inchaço",
+        "nome_planta": "Erva-doce",
+        "descrição": "A erva-doce (Pimpinella anisum) possui propriedades que auxiliam na digestão e na redução de gases, ajudando a aliviar a sensação de inchaço abdominal.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/22897421/"
+    },
+    {
+        "nome": "Resfriado",
+        "nome_planta": "Equinácea",
+        "descrição": "A equinácea (Echinacea purpurea) é frequentemente utilizada para fortalecer o sistema imunológico e pode ajudar a reduzir a duração e a severidade dos sintomas de resfriados.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/26853815/"
+    },
+    {
+        "nome": "Cansaço",
+        "nome_planta": "Ginseng",
+        "descrição": "O ginseng (Panax ginseng) é uma planta adaptogênica conhecida por ajudar a combater a fadiga e aumentar os níveis de energia, melhorando o desempenho físico e mental.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/29624410/"
+    },
+    {
+        "nome": "Cólica",
+        "nome_planta": "Canela",
+        "descrição": "A canela (Cinnamomum zeylanicum) possui propriedades anti-inflamatórias e antiespasmódicas que podem ajudar a aliviar as cólicas menstruais, reduzindo a dor e o desconforto.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7465725/"
+    },
+    {
+        "nome": "Estresse",
+        "nome_planta": "Camomila",
+        "descrição": "A camomila (Matricaria chamomilla) é famosa por suas propriedades calmantes, que ajudam a reduzir o estresse e a promover o relaxamento. ",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/27912875/"
+    },
+    {
+        "nome": "Ansiedade",
+        "nome_planta": "Passiflora",
+        "descrição": "A passiflora (Passiflora incarnata), também conhecida como flor do maracujá, é utilizada como um calmante natural para aliviar a ansiedade e a agitação.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/31121033/"
+    },
+   {
+       "nome": "Dor de cabeça",
+       "nome_planta": "Lavanda",
+       "descrição": "A lavanda (Lavandula angustifolia) é conhecida por suas propriedades relaxantes. A inalação de seu óleo essencial pode ajudar a aliviar dores de cabeça e enxaquecas.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/22517298/"
+   },
+   {
+       "nome": "Insônia",
+       "nome_planta": "Valeriana",
+       "descrição": "A raiz de valeriana (Valeriana officinalis) é um sedativo natural popularmente usado para tratar a insônia e melhorar a qualidade do sono, ajudando a reduzir o tempo para adormecer.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7585905/"
+   },
+   {
+       "nome": "Azia",
+       "nome_planta": "Espinheira-santa",
+       "descrição": "A espinheira-santa (Maytenus ilicifolia) é tradicionalmente usada no Brasil para tratar problemas gástricos, como azia e gastrite, devido às suas propriedades que protegem a mucosa do estômago.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/17706386/"
+   },
+   {
+       "nome": "Prisão de ventre",
+       "nome_planta": "Sene",
+       "descrição": "As folhas de sene (Senna alexandrina) contêm compostos que estimulam o intestino, sendo um laxante eficaz para o alívio a curto prazo da prisão de ventre.",
+        "link": "https://www.ncbi.nlm.nih.gov/books/NBK559063/"
+    },
+    {
+       "nome": "Diarréia",
+       "nome_planta": "Folha de Goiabeira",
+       "descrição": "O chá das folhas de goiabeira (Psidium guajava) é um remédio popular para diarreia. Seus extratos têm propriedades que ajudam a reduzir a frequência e a duração dos episódios.",
+       "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4560768/"
+   },
+   {
+       "nome": "Dor de garganta",
+       "nome_planta": "Sálvia",
+       "descrição": "A sálvia (Salvia officinalis) tem propriedades anti-inflamatórias e antissépticas. Gargarejos com chá de sálvia podem ajudar a aliviar a dor e a irritação na garganta.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4003706/"
+   },
+   {
+       "nome": "Tosse",
+       "nome_planta": "Tomilho",
+       "descrição": "O tomilho (Thymus vulgaris) é um expectorante natural que ajuda a soltar o muco e aliviar a tosse, especialmente a tosse produtiva (com catarro).",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9147558/"
+   },
+   {
+       "nome": "Queimadura leve",
+       "nome_planta": "Aloe Vera",
+       "descrição": "O gel de aloe vera (Aloe barbadensis miller), também conhecido como babosa, é excelente para queimaduras leves, pois hidrata a pele, alivia a dor e acelera a cicatrização.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6330525/"
+   },
+   {
+       "nome": "Picada de inseto",
+       "nome_planta": "Calêndula",
+       "descrição": "A calêndula (Calendula officinalis) possui propriedades anti-inflamatórias e cicatrizantes que ajudam a reduzir a coceira, o inchaço e a irritação causados por picadas de insetos.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3270572/"
+   },
+   {
+       "nome": "Dor de dente",
+       "nome_planta": "Cravo-da-índia",
+       "descrição": "O cravo-da-índia (Syzygium aromaticum) contém eugenol, um analgésico e antisséptico natural. Aplicar seu óleo ou mastigar um cravo pode aliviar temporariamente a dor de dente.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3769004/"
+   },
+   {
+       "nome": "Afta",
+       "nome_planta": "Tanchagem",
+       "descrição": "A tanchagem (Plantago major) é uma planta com ação anti-inflamatória e cicatrizante. Bochechos com o chá de suas folhas podem acelerar a cura de aftas e feridas na boca.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5878035/"
+   },
+   {
+       "nome": "Congestão nasal",
+       "nome_planta": "Eucalipto",
+       "descrição": "A inalação do vapor de folhas de eucalipto (Eucalyptus globulus) ajuda a desobstruir as vias nasais, aliviando a congestão causada por resfriados e sinusites.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3703330/"
+   },
+   {
+       "nome": "Febre baixa",
+       "nome_planta": "Sabugueiro",
+       "descrição": "As flores de sabugueiro (Sambucus nigra) são conhecidas por induzir a transpiração, ajudando o corpo a reduzir a febre de forma natural, especialmente em casos de gripes e resfriados.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7282156/"
+   },
+   {
+       "nome": "Acne",
+       "nome_planta": "Melaleuca",
+       "descrição": "O óleo de melaleuca (Melaleuca alternifolia), também conhecido como 'tea tree oil', tem fortes propriedades antibacterianas e anti-inflamatórias, sendo eficaz no tratamento da acne.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1360273/"
+   },
+   {
+       "nome": "Caspa",
+       "nome_planta": "Alecrim",
+       "descrição": "O alecrim (Rosmarinus officinalis) possui propriedades antifúngicas e adstringentes. Enxaguar o cabelo com chá de alecrim pode ajudar a combater a caspa e a oleosidade.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6165352/"
+   },
+   {
+       "nome": "Má digestão",
+       "nome_planta": "Boldo",
+       "descrição": "O boldo (Peumus boldus) estimula a produção de bile, auxiliando na digestão de gorduras e aliviando a sensação de estômago pesado e outros desconfortos da má digestão.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5424553/"
+   }
+]

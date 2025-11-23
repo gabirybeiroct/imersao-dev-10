@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&display=swap" rel="stylesheet">
+    <title>CháFinder</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <!-- Cabeçalho principal com título e barra de busca -->
+        <h1>🌿 CháFinder</h1>
+        <div>
+            <input type="text" id="input-busca" placeholder="Digite um sintoma" onkeyup="iniciarBusca()">
+            <button id="botao-busca">BUSCAR</button>
+        </div>
+    </header>
+   
+    <!-- Contêiner principal onde os cards serão inseridos dinamicamente -->
+    <main>
+      <!-- Seção que vai conter todos os cards gerados pelo JavaScript -->
+      <section class="card-container">
+        <!-- 
+          Exemplo de como um card será estruturado. 
+          O JavaScript cria esses cards dinamicamente a partir do arquivo data.json.
+        -->
+
+      </section>
+    </main>
+
+ <!-- Rodapé da página com links externos -->
+ <footer class="footer">
+    <p class="footer-warning">O uso de chás e plantas medicinais é um conhecimento tradicional e não substitui a consulta médica. Em caso de sintomas, procure um profissional de saúde.</p>
+    <ul class="footer-links">
+        <li>
+            <a href="https://github.com/guilhermeonrails">GitHub</a>
+        </li>
+        <li>
+            <a href="https://alura.com.br">Alura</a>
+        </li>
+    </ul>
+ </footer>
+ <!-- Importa o arquivo JavaScript que controla a interatividade da página -->
+ <script src="script.js"></script>
+</body>
+</html>
